@@ -46,6 +46,33 @@ serial or I2C as you wish.  By using the standard Debug build configuration, you
 
 This example has been tested with both UART and with I2C.
 
+## Contributing
+
+We love issues, fixes, and pull requests from everyone. By participating in this
+project, you agree to abide by the Blues Inc [code of conduct].
+
+For details on contributions we accept and the process for contributing, see our
+[contribution guide](CONTRIBUTING.md).
+
+## More Information
+
+For Notecard SDKs and Libraries, see:
+
+* [note-c](note-c) for Standard C support
+* [note-go](note-go) for Go
+* [note-python](note-python) for Python
+
+## To learn more about Blues Wireless, the Notecard and Notehub, see:
+
+* [blues.com](https://blues.io)
+* [notehub.io][Notehub]
+* [wireless.dev](https://wireless.dev)
+
+## License
+
+Copyright (c) 2019 Blues Inc. Released under the MIT license. See
+[LICENSE](LICENSE) for details.
+
 [note-stm32f1]: https://github.com/blues/note-stm32f1
 [note-c]: https://github.com/blues/note-c
 [note-arduino]: https://github.com/blues/note-arduino
