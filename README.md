@@ -58,9 +58,9 @@ For details on contributions we accept and the process for contributing, see our
 
 For Notecard SDKs and Libraries, see:
 
-* [note-c](note-c) for Standard C support
-* [note-go](note-go) for Go
-* [note-python](note-python) for Python
+* [note-c][note-c] for Standard C support
+* [note-go][note-go] for Go
+* [note-python][note-python] for Python
 
 ## To learn more about Blues Wireless, the Notecard and Notehub, see:
 
@@ -75,7 +75,11 @@ Copyright (c) 2019 Blues Inc. Released under the MIT license. See
 
 [note-stm32f1]: https://github.com/blues/note-stm32f1
 [note-c]: https://github.com/blues/note-c
+[note-go]: https://github.com/blues/note-go
+[note-python]: https://github.com/blues/note-python
 [note-arduino]: https://github.com/blues/note-arduino
 [board]: https://www.st.com/en/evaluation-tools/nucleo-f103rb.html
 [reference-manual]: https://www.st.com/resource/en/user_manual/dm00105823.pdf
 [ide]: https://www.st.com/en/development-tools/stm32cubeide.html
+[Notehub]: https://notehub.io
+
