@@ -18,7 +18,7 @@ clean up inconsistent whitespace )
 * by closing [issues][]
 * by reviewing patches
 
-[issues]: https://blues.github.com/note-stm32f1/issues
+[issues]: https://github.com/blues/note-stm32f1/issues
 
 ## Submitting an Issue
 
